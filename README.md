@@ -1,14 +1,11 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
+This repository is a collection of some of my key learnings during my 2022 - 2023 apprenticeship at Verizon.
 
 ## Overview of Apprenticeship
-- **Host Company**:
-- **Duration**:
+- **Host Company**: Verizon
+- **Duration**: One Year
 - **Link to Portfolio Website**:
 
 ## Portfolio Introduction
-- Who you are
-- Why you do what you do
-- The teams you have worked on
-- Your areas of interest
+- I worked in REVO (Revenue Assurance Online) team. I was assigned SQL queries and I created endpoints within the RESTful API to fetch and export data.  
