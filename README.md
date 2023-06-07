@@ -8,4 +8,4 @@ This repository is a collection of some of my key learnings during my 2022 - 202
 - **Link to Portfolio Website**:
 
 ## Portfolio Introduction
-- I worked in REVO (Revenue Assurance Online) team. I was assigned SQL queries and I created endpoints within the RESTful API to fetch and export data.  
+- I worked in REVO (Revenue Assurance Online) team. REVO checks to make sure customers are receiving the correct promotions so customers that are missing promotions properly receive them. I also worked on the FWA (Fixed Wireless Access) system where we audit the accuracy of the FWA chargeback process, as well as service/billing promotions (which makes sure customers are not being overbilled or underbilled). I was tasked with SQL queries which needed to be cleaned up and then integrated into the RESTful API to fetch and export data. Afterwards I used Toad to verify the endpoints.
